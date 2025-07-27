@@ -29,7 +29,7 @@ Vue.js is an MIT-licensed open source project with its ongoing development made 
 For questions and support please use [the official forum](https://forum.vuejs.org) or [community chat](https://chat.vuejs.org/). The issue list of this repo is **exclusively** for bug reports and feature requests.
 
 ## Issues
-
+asdas
 Please make sure to respect issue requirements and use [the new issue helper](https://new-issue.vuejs.org/) when opening an issue. Issues not conforming to the guidelines may be closed immediately.
 
 ## Stay In Touch
